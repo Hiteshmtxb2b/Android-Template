@@ -1,0 +1,7 @@
+#Tue Sep 05 16:03:29 IST 2017
+base.0=C\:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_54325b5f31094c06197400fbc7650969ca215127
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_abdbb208d778a838592c334b62a6f8c3f2b96af5\\classes.dex
+base.1=C\:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_abdbb208d778a838592c334b62a6f8c3f2b96af5
+file.0=C\:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_54325b5f31094c06197400fbc7650969ca215127\\classes.dex

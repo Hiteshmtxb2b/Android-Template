@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\fb_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\fb_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\default_logo.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\default_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\lock_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\lock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\mtx_logo.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\mtx_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\question_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\question_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\email_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logout_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\logout_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\twitter_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\twitter_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\google_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\mipmap-xxxhdpi\\google_icon.png"
+    }
+]

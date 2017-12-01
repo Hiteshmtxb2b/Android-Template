@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\93740272a26d1f1cc0516079f23f1f7885afb8ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_639b5d27920d8f6fb69e629f5a30cf9147577dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_54325b5f31094c06197400fbc7650969ca215127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90e1a31514e10e01dc14d70d3788a5c5aa100f85">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_abdbb208d778a838592c334b62a6f8c3f2b96af5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\3618179e92d03d3d0ae3d44121541b966f34c5db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce0f3de11781e1ee758cba483871b598c9d4931">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fddf0b041564c6c7bc959b3d00441886734af91b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta5\constraint-layout-solver-1.0.0-beta5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0dad5e4fc720f478ce8b5f6edf76a932d9b886">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta5_8d66e2f2cfa67e2006de091c7d62b23791eb7a3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\264c866d4fbb27d28c8321b18c32867c2c4284af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3d6d25398cd2ff26f761f2a41886d7da886389b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\91d99850bc8eb979d2106c2b5b212d16c501bb95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88715d71083f3c1b2599c596284c00f962c31500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_1f9e5fe7b2f50605a4476739a6ead91856f910f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\7f9fa8f3dccd68371cc68e0e1567d17e289130e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e003714359ec8ea5519eb7b51fe79237f00208af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\20948ad63104c02febbb600572b352c83c231ef1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e540c1818b80f27716fae12b165018484bd7f939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\bbf15a6e5ff672dfbc3626f01d742a02f472816c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_031cb03943c9370420d5a469101e3f06877d61f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\392149bb79d341e14e7c83d45a6622be40434679\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7600e4525416916530dfae948fe797529c5f38f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\e97d7c3c3aa3c741794e38569b9e3e513b3415ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2636e1d35b91dd39a83f97a02be468a0a4f8a10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\eed68bdb25f5168342aa3f07f54542db204faab6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97facbce05fd3e8430e5adc3ad6e40520fed04cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\40ad6535d3e88be5bc540f516c9cf8eebced5ee3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ded7ae66554cb05b6d38f8df5f6bf3ab5121fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\3fa8b0204eb266f46b35e044310f8ffb4593eddb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d46c2625c2202a822c4f7d09548f563e6858abef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Yadav\.android\build-cache\5f1d44b20d6d6d74af4fe5298afe43f76760ce98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yadav\Downloads\Android template\TemplateOne\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_368adfaf89b51c72e95c782c68224acc14944ae9\classes.dex" />
+    </item>
+
+</items>

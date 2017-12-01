@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_lock_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\drawable-xxhdpi\\ic_lock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_email_icon.png",
+        "source": "C:\\Users\\Yadav\\Downloads\\Android template\\TemplateOne\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email_icon.png"
+    }
+]
